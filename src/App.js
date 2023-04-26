@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.scss';
 import '@fortawesome/fontawesome-free/css/all.css'
 
